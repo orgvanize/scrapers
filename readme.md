@@ -9,4 +9,4 @@ Requires: PHP, Composer
 
 **Steps to run:**
 * Install Composer dependancies before running for the first time using `composer install`
-* Run script with: `php nyt-json-to-csv.php *[path-to-json]* > *[desired-output-filename]*`
+* Run script with: `php nyt-json-to-csv.php [path-to-json] > [desired-output-filename]`
