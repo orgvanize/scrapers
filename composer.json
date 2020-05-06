@@ -1,0 +1,12 @@
+{
+    "name": "vanguard/scrapers",
+    "description": "Scraper scripts",
+    "authors": [
+        {
+            "name": "Vanguard"
+        }
+    ],
+    "require": {
+        "league/csv": "^9.5"
+    }
+}
